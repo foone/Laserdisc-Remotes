@@ -1,0 +1,49 @@
+Power:                       15EA6897
+Dig/Ana:                     15EA30CF
+Disp:                        15EAC23D
+Number 0:                    15EA00FF
+Number 1:                    15EA807F
+Number 2:                    15EA40BF
+Number 3:                    15EAC03F
+Number 4:                    15EA20DF
+Number 5:                    15EAA05F
+Number 6:                    15EA609F
+Number 7:                    15EAE01F
+Number 8:                    15EA10EF
+Number 9:                    15EA906F
+Clear:                       15EAA25D
+Side A:                      15EAB24D
+Side B:                      15EA728D
++10:                         15EAF807
+Frm/Tim:                     15EA827D
+Chap:                        15EA02FD
+Chp/Tim:                     15EAC837
+Search:                      15EA42BD
+Chaper Skip Back:            15EACA35
+Chaper Skip Forward:         15EA4AB5
+<X3:                         15EA9A65
+X3>:                         15EA8A75
+Still/Step =>:               15EA2AD5
+Scan <<:                     15EA8877
+Scan >>:                     15EA08F7
+Stil/Step <=:                15EA0AF5
+Pause:                       15EA18E7
+Play:                        15EAE817
+Test:                        15EA7A85
+Volume +:                    ?
+Volume -:                    ?
+Channel +:                   15EAF807
+Channel -:                   15EA00FF
+Rep A:                       15EA12ED
+Rep B:                       15EA22DD
+Stereo:                      15EA52AD
+PRUN:                        15EA6A95
+A.MON:                       15EA7887
+TV/LDP:                      15EAF00F
+Speed -:                     15EA629D
+Speed +:                     15EAE21D
+ESS:                         15EAFA05
+CX:                          15EA708F
+
+
+

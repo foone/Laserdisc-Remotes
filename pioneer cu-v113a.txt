@@ -1,0 +1,27 @@
+Reject                       15EA6897
+Pause:                       15EA18E7
+Play:                        15EAE817
+Repeat Mode:                 15EA22DD
+Display:                     15EAC23D
+Audio:                       15EA7887
+Clear:                       15EAA25D
+Still/Step Rev:              15EA0AF5
+Still/Step Fwd:              15EA2AD5
+Scan Rev:                    15EA8877
+Scan Fwd:                    15EA08F7
+Speed Down:                  15EA629D
+Speed Up:                    15EAE21D
+Multi Rev:                   15EAAA55
+Multi Fwd:                   15EA1AE5
+0:                           15EA00FF
+1:                           15EA807F
+2:                           15EA40BF
+3:                           15EAC03F
+4:                           15EA20DF
+5:                           15EAA05F
+6:                           15EA609F
+7:                           15EAE01F
+8:                           15EA10EF
+9:                           15EA906F
+Search:                      15EA42BD
+Chap/Frame/Track/Time        15EAC837
